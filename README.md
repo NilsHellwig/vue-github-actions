@@ -1,5 +1,7 @@
 # vue-github-actions
 
+Simple workflow to deploy /dist on GitHub Pages.
+
 ## Project setup
 ```
 npm install
