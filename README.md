@@ -25,5 +25,13 @@ npm run lint
 gh-pages -d dist
 ```
 
+### Add this to vue.config.js
+
+```
+module.exports = {
+    publicPath: '/vue-github-actions/'
+}
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
