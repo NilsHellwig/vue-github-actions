@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Host on GitHub Pages
+```
+gh-pages -d dist
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
